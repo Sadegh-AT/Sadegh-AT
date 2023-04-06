@@ -3,6 +3,6 @@
 <h3 align="center">Front-End Web Developer Developer</h3>
 
 <div align="center">
-
-<div align="center" width="100%"><img src="https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,typescript,webpack,redux,next)](https://skills.thijs.gg" alt="skill"/></div>
+<h4 align="center">Languages and Tools:</h3>
+<img src="https://skills.thijs.gg/icons?i=asd,js,html,css,tailwind,webpack,react,redux,nextjs,typescript,wasm)](https://skills.thijs.gg" alt="skill"/>
 </div>
