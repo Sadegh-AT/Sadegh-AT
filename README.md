@@ -5,5 +5,5 @@
 
 <div align="center">
 <h4 align="center">Languages and Tools:</h3>
-<img src="https://skills.thijs.gg/icons?i=asd,js,nodejs,postman,mongodb,mysql,webpack,wasm)](https://skills.thijs.gg" alt="skill"/>
+<img src="https://skills.thijs.gg/icons?i=asd,js,nodejs,express,postman,mongodb,mysql,webpack,wasm)](https://skills.thijs.gg" alt="skill"/>
 </div>
